@@ -1,0 +1,70 @@
+[
+    {
+        "word": "test",
+        "phonetics": [
+            {
+                "text": "/tɛst/",
+                "audio": "https://lex-audio.useremarkable.com/mp3/test_us_1.mp3"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Take measures to check the quality, performance, or reliability of (something), especially before putting it into widespread use or practice.",
+                        "synonyms": [
+                            "try out",
+                            "trial",
+                            "carry out trials on",
+                            "put to the test",
+                            "put through its paces",
+                            "experiment with",
+                            "pilot"
+                        ],
+                        "example": "this range has not been tested on animals"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A procedure intended to establish the quality, performance, or reliability of something, especially before it is taken into widespread use.",
+                        "synonyms": [
+                            "trial",
+                            "experiment",
+                            "pilot study",
+                            "try-out"
+                        ],
+                        "example": "no sparking was visible during the tests"
+                    },
+                    {
+                        "definition": "A movable hearth in a reverberating furnace, used for separating gold or silver from lead.",
+                        "example": "When fully prepared, the test is allowed to dry, and is then placed in a  furnace, constructed in all respects like a common reverberator)' furnace,  except that a space is left open in the bed of it to receive the test, and that  the width of the arch is much reduced."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "test",
+        "phonetics": [
+            {
+                "text": "/tɛst/",
+                "audio": "https://lex-audio.useremarkable.com/mp3/test_us_1.mp3"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The shell or integument of some invertebrates and protozoans, especially the chalky shell of a foraminiferan or the tough outer layer of a tunicate.",
+                        "example": "The tests of the shells are recrystallized, but the original ornamentation is preserved in very good detail."
+                    }
+                ]
+            }
+        ]
+    }
+]

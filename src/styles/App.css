@@ -1,0 +1,66 @@
+body{
+  background-color:rgb(0,36,54);;
+}
+
+.App{
+ padding:30px;
+ font-family:"Trebuchet MS";
+ color:white;
+}
+
+.App h2{
+  text-align:center;
+}
+
+.App .search-box{
+  border:1px solid black;
+  margin-top:20px;
+  margin-bottom:20px;
+}
+
+.App .search-box input{
+  width:80%;
+  padding:10px 0;
+  text-indent:10px;
+}
+
+.App .search-box button{
+  width:20%;
+  padding:10px 0;
+}
+
+.App div.section{
+  border:1px solid white;
+  margin-bottom:10px;
+  border-radius:10px;
+  padding:10px;
+  background-color:white;
+  color:black;
+  animation:show 0.2s linear 1;
+  overflow:auto;
+}
+
+
+@keyframes show{
+  from{
+    transform:scale(0);
+  } 
+  to{
+    transform:scale(1);
+  }
+}
+
+#synonymsDiv{
+   display:flex;
+}
+
+#synonyms{
+  border:1px solid black;
+  display:block;
+  margin:5px;
+  padding:2px;
+  border-radius:3px;
+  background-color:limegreen;
+  color:white;
+  cursor:pointer;
+}

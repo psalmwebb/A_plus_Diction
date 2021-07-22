@@ -1,0 +1,98 @@
+[
+    {
+        "word": "water",
+        "phonetics": [
+            {
+                "text": "/ˈwɔdər/",
+                "audio": "https://lex-audio.useremarkable.com/mp3/water_us_1_rr.mp3"
+            },
+            {
+                "text": "/ˈwɑdər/",
+                "audio": "https://lex-audio.useremarkable.com/mp3/water_us_2_rr.mp3"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Pour or sprinkle water over (a plant or area) in order to encourage plant growth.",
+                        "synonyms": [
+                            "sprinkle",
+                            "moisten",
+                            "dampen",
+                            "wet",
+                            "spray",
+                            "splash"
+                        ],
+                        "example": "I went out to water the geraniums"
+                    },
+                    {
+                        "definition": "(of the eyes) become full of moisture or tears.",
+                        "synonyms": [
+                            "moisten",
+                            "exude water",
+                            "become wet",
+                            "leak"
+                        ],
+                        "example": "Rory blinked, his eyes watering"
+                    },
+                    {
+                        "definition": "Dilute or adulterate (a drink, typically an alcoholic one) with water.",
+                        "synonyms": [
+                            "dilute",
+                            "water down",
+                            "add water to",
+                            "thin",
+                            "thin out",
+                            "make thin",
+                            "make thinner",
+                            "weaken",
+                            "make weak",
+                            "make weaker"
+                        ],
+                        "example": "staff at the club had been watering down the drinks"
+                    },
+                    {
+                        "definition": "Increase (a company's debt, or nominal capital) by the issue of new shares without a corresponding addition to assets."
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A colorless, transparent, odorless liquid that forms the seas, lakes, rivers, and rain and is the basis of the fluids of living organisms.",
+                        "synonyms": [
+                            "aqua"
+                        ],
+                        "example": "They are dissolved in warm water and the liquid is taken as a drink between meals."
+                    },
+                    {
+                        "definition": "A stretch or area of water, such as a river, sea, or lake.",
+                        "synonyms": [
+                            "sea",
+                            "ocean"
+                        ],
+                        "example": "the lawns ran down to the water's edge"
+                    },
+                    {
+                        "definition": "Urine."
+                    },
+                    {
+                        "definition": "The amniotic fluid surrounding a fetus in the womb, especially as discharged in a flow shortly before birth.",
+                        "example": "I think my waters have broken"
+                    },
+                    {
+                        "definition": "The quality of transparency and brilliance shown by a diamond or other gem."
+                    },
+                    {
+                        "definition": "Capital stock that represents a book value greater than the true assets of a company."
+                    }
+                ]
+            }
+        ]
+    }
+]
+
+

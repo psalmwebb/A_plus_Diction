@@ -1,0 +1,8 @@
+{
+    "presets": [
+        // Needed for transpiling jsx to js
+        ["@babel/preset-react",{"runtime":"automatic"}], // Babel automatically import React in your component's file when set runtime as automatic...
+        "@babel/preset-typescript", // For compiling typescript to javascript...
+        "@babel/preset-env" // Compile based on your browser's js runtime
+    ]
+}
